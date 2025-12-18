@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  🏛️ Research initiative under <strong>:contentReference[oaicite:0]{index=0}</strong>
+  🏛️ Research initiative under <strong>NeuralCentral & NeuralBug</strong>
 </p>
 
 ---
